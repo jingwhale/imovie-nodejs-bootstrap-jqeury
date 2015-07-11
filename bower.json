@@ -1,0 +1,12 @@
+{
+  "name": "imovie",
+  "version": "0.0.1",
+  "authors": [
+    ""
+  ],
+  "description": "imovie code",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
